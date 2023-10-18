@@ -6,7 +6,7 @@ The Catch 2023 - Write-ups
   - Captain's coffee
   - Ship web server
 - Crew drills
-  - Sonar logs
+  - [Sonar logs](sonar_logs/writeup.md)
   - Regular cube
   - Web protocols
   - Apha-Zulu quiz
