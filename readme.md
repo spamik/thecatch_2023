@@ -12,7 +12,7 @@ The Catch 2023 - Write-ups
   - [Apha-Zulu quiz](apha_zulu_quiz/writeup.md)
 - Troubles on the bridge
   - [Captain's password](captains_password/writeup.md)
-  - Navigation plan
+  - [Navigation plan](navigation_plan/writeup.md)
   - Keyword of the day
   - Signal flags
 - Below deck troubles
