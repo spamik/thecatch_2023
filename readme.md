@@ -11,7 +11,7 @@ The Catch 2023 - Write-ups
   - [Web protocols](web_protocols/writeup.md)
   - [Apha-Zulu quiz](apha_zulu_quiz/writeup.md)
 - Troubles on the bridge
-  - Captain's password
+  - [Captain's password](captains_password/writeup.md)
   - Navigation plan
   - Keyword of the day
   - Signal flags
