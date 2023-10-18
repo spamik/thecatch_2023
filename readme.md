@@ -7,7 +7,7 @@ The Catch 2023 - Write-ups
   - Ship web server
 - Crew drills
   - [Sonar logs](sonar_logs/writeup.md)
-  - Regular cube
+  - [Regular cube](regular_cube/writeup.md)
   - Web protocols
   - Apha-Zulu quiz
 - Troubles on the bridge
