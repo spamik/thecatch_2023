@@ -16,7 +16,7 @@ The Catch 2023 - Write-ups
   - [Keyword of the day](keyword_of_the_day/writeup.md)
   - [Signal flags](signal_flags/writeup.md)
 - Below deck troubles
-  - Cat code
+  - [Cat code](cat_code/writeup.md)
   - Component replacement
   - U.S.A.
   - Suspicious traffic
