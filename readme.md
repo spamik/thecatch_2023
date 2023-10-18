@@ -14,7 +14,7 @@ The Catch 2023 - Write-ups
   - [Captain's password](captains_password/writeup.md)
   - [Navigation plan](navigation_plan/writeup.md)
   - [Keyword of the day](keyword_of_the_day/writeup.md)
-  - Signal flags
+  - [Signal flags](signal_flags/writeup.md)
 - Below deck troubles
   - Cat code
   - Component replacement
