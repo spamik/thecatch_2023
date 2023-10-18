@@ -4,7 +4,7 @@ The Catch 2023 - Write-ups
 - Sailor training center
   - [Treasure map](treasure_map/writeup.md)
   - [Captain's coffee](captains_coffee/writeup.md)
-  - Ship web server
+  - [Ship web server](ship_web_server/writeup.md)
 - Crew drills
   - [Sonar logs](sonar_logs/writeup.md)
   - [Regular cube](regular_cube/writeup.md)
