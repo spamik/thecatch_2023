@@ -13,7 +13,7 @@ The Catch 2023 - Write-ups
 - Troubles on the bridge
   - [Captain's password](captains_password/writeup.md)
   - [Navigation plan](navigation_plan/writeup.md)
-  - Keyword of the day
+  - [Keyword of the day](keyword_of_the_day/writeup.md)
   - Signal flags
 - Below deck troubles
   - Cat code
