@@ -22,4 +22,4 @@ The Catch 2023 - Write-ups
   - Suspicious traffic
 - Miscellaneous
   - Naval chef's recipe
-  - Arkanoid
+  - [Arkanoid](arkanoid/writeup.md)
