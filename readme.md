@@ -8,7 +8,7 @@ The Catch 2023 - Write-ups
 - Crew drills
   - [Sonar logs](sonar_logs/writeup.md)
   - [Regular cube](regular_cube/writeup.md)
-  - Web protocols
+  - [Web protocols](web_protocols/writeup.md)
   - Apha-Zulu quiz
 - Troubles on the bridge
   - Captain's password
