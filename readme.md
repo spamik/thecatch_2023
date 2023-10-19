@@ -19,7 +19,7 @@ The Catch 2023 - Write-ups
   - [Cat code](cat_code/writeup.md)
   - [Component replacement](component_replacement/writeup.md)
   - [U.S.A.](usa/writeup.md)
-  - Suspicious traffic
+  - [Suspicious traffic](suspicious_traffic/writeup.md)
 - Miscellaneous
   - Naval chef's recipe
   - [Arkanoid](arkanoid/writeup.md)
