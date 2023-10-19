@@ -18,7 +18,7 @@ The Catch 2023 - Write-ups
 - Below deck troubles
   - [Cat code](cat_code/writeup.md)
   - [Component replacement](component_replacement/writeup.md)
-  - U.S.A.
+  - [U.S.A.](usa/writeup.md)
   - Suspicious traffic
 - Miscellaneous
   - Naval chef's recipe
