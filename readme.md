@@ -21,5 +21,5 @@ The Catch 2023 - Write-ups
   - [U.S.A.](usa/writeup.md)
   - [Suspicious traffic](suspicious_traffic/writeup.md)
 - Miscellaneous
-  - Naval chef's recipe
+  - [Naval chef's recipe](naval_chefs_recipe/writeup.md)
   - [Arkanoid](arkanoid/writeup.md)
